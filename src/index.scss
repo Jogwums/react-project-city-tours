@@ -1,0 +1,24 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+// Specify colors
+
+$mainBlack: #222;
+$mainGreen: #f5b345;
+$mainWhite: #fff;
+$mainGrey: rgb(240, 231, 231);
+
+//transition
+$mainTransition: all 0.3s linear;
+
+body{
+  font-family: 'Open Sans', sans-serif;
+  font-family: 'Poppins', sans-serif;
+  background: $mainGreen;
+}
+
+
+
